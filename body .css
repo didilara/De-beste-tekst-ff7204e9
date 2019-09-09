@@ -1,0 +1,19 @@
+body {
+   background-color: grey;
+ }
+
+ h1  {
+   font-weight: bold;
+ }
+
+ h3  {
+  color: skyblue;
+ }
+
+ li  {
+  color: yellow;
+ }
+
+ img {
+   width: 150px;
+ }
